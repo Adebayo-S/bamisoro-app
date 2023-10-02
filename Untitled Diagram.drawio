@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-30T04:15:42.800Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BqW7yr17tOSEhj9lgBeH" version="22.0.0" type="github">
+<mxfile modified="2023-10-02T00:44:23.773Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1kgQYl1L35aSRO8qDEbG" version="22.0.0" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="2087" dy="2162" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="p4TXbPgcI1VuwZD0pCjf-24" value="&lt;font color=&quot;#0b4fa8&quot;&gt;&lt;b&gt;&amp;lt;ServerDetails.json&amp;gt;&lt;br&gt;Block blob&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
           <mxGeometry x="124" y="62" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="p4TXbPgcI1VuwZD0pCjf-26" value="&lt;font color=&quot;#0b4fa8&quot;&gt;&amp;lt;CCAppVault&amp;gt;&lt;br&gt;Key vault&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="826" y="283" width="54" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
